@@ -17,6 +17,9 @@ Descobrimos como consultas bem estruturadas fazem toda a diferença na qualidade
 ✅ **O Poder da Nuvem e da Indexação**  
 Aprendemos a integrar **Azure Blob Storage** com **Azure AI Search**, garantindo que grandes volumes de dados sejam armazenados e pesquisados sem dificuldades.  
 
+🔹 **🎯 O Que Isso Significa na Prática?**  
+Agora sabemos como transformar um monte de avaliações em **insights reais e acionáveis**! Seja para cafeterias, produtores ou consumidores, os padrões que descobrimos podem ajudar na tomada de decisões e melhorar recomendações.  
+
 ### 💡 Reflexão  
 Este laboratório demonstrou que, com uma boa estruturação dos dados e um índice bem configurado, podemos **transformar grandes volumes de informações em conhecimento útil e acessível!**  
 
@@ -53,15 +56,13 @@ Imagina poder pesquisar cafés exatamente do jeito que você gosta, encontrar pa
 
 Este laboratório proporcionou uma imersão prática no **Azure AI Search**, demonstrando como grandes volumes de dados podem ser estruturados e consultados de maneira eficiente. A exploração das avaliações de café nos permitiu entender padrões, melhorar buscas e refinar estratégias de indexação. 
 
-🔹 **🎯 O Que Isso Significa na Prática?**  
-Agora sabemos como transformar um monte de avaliações em **insights reais e acionáveis**! Seja para cafeterias, produtores ou consumidores, os padrões que descobrimos podem ajudar na tomada de decisões e melhorar recomendações.  
-
 🔹 **Aprendizados Chave:**  
 - Melhor compreensão sobre **indexação inteligente** e **relevância de consultas**.  
 - Identificação de tendências em avaliações, auxiliando decisões estratégicas.  
 - Aplicação de técnicas para otimização de buscas e refinamento de filtros.
 
 🔹 **Próximos Passos e Expansão:**
+
 📊 **Aprimoramento contínuo:** Explorar novas fontes de dados e testar diferentes abordagens de indexação.  
 🤖 **Integração com IA:** Incorporar modelos de machine learning para previsões ainda mais precisas.  
 📈 **Automação de consultas:** Criar dashboards interativos para visualização dinâmica dos insights gerados. 
