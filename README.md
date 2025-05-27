@@ -29,20 +29,15 @@ AzureAISearch-Lab/
 │── 📜 README.md         # Explicação geral do laboratório
 │── 📂 datasets/         # Arquivos de dados usados no projeto
 │   ├── coffee_reviews.json  # Dados brutos das avaliações de café
-│   ├── coffee_reviews.csv   # Versão alternativa em CSV
 │   ├── dataset_info.md      # Documento explicando a origem e estrutura dos dados
-│── 📂 indexacao/         # Configuração e ajustes do Azure AI Search
-│   ├── config_index.json    # Arquivo JSON com a definição do índice
-│   ├── index_setup.md       # Passo a passo para configurar o índice no Azure
+│── 📂 org_dados/         # Configuração e ajustes do Azure AI Search
+│   ├── config_data.json    # Arquivo JSON com a definição do índice
+│   ├── preparacao_dados.md       # Passo a passo para configurar o índice no Azure
 │── 📂 consultas/         # Exemplos de buscas e análise dos resultados
 │   ├── search_examples.json # Modelos de consultas feitas no Azure AI Search
 │   ├── query_results.md     # Análises e insights das buscas realizadas
 │── 📂 insights/         # Descobertas e padrões observados nos dados
 │   ├── data_analysis.md     # Relatório detalhando padrões e tendências nos dados
 │   ├── coffee_trends.md     # Tendências encontradas nas avaliações de café
-│── 📂 assets/           # Imagens e gráficos para ilustrar o projeto
-│   ├── search_visual.png    # Captura de tela da interface de busca no Azure
-│   ├── data_flow_diagram.png # Diagrama explicando o fluxo dos dados
-
-
-✅ README.md — Um guia detalhado sobre o laboratório, incluindo objetivos, metodologia e conclusão. ✅ Datasets/ — Diretório para armazenar os dados utilizados, incluindo informações sobre origem e formato. ✅ Indexação/ — Onde ficam as configurações do Azure AI Search e explicações sobre o processo de criação do índice. ✅ Consultas/ — Testes realizados, exemplos de buscas e análise dos resultados obtidos. ✅ Insights/ — Relatórios sobre padrões encontrados e sugestões para melhorar pesquisas futuras. ✅ Assets/ — Imagens e gráficos para documentar visualmente as etapas.
+│   ├── aprendizados.md    
+│── 📂 images/           # Imagens e gráficos para ilustrar o projeto
