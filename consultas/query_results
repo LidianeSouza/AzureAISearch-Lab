@@ -17,8 +17,7 @@
 🍫 2. Cafés com Notas de Chocolate
 
 🔍Consulta:
-
-json
+```json
 {
   "search": "Notas de chocolate",
   "filter": "review eq 'chocolate'",
@@ -30,8 +29,7 @@ json
 🌍 3. Cafés de Origem Etíope
 
 🔍 Consulta:
-
-json
+```json
 {
   "search": "Cafés de origem etíope",
   "filter": "origin eq 'Ethiopia'",
