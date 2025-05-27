@@ -1,1 +1,28 @@
+Este arquivo contém consultas realizadas para pesquisar as avaliações de café.
+
+[
+  {
+    "query": "Melhor café",
+    "filter": "rating gt 4.5",
+    "top": 5,
+    "description": "Busca pelos cafés mais bem avaliados no conjunto de dados."
+  },
+  {
+    "query": "Notas de chocolate",
+    "filter": "review eq 'chocolate'",
+    "top": 10,
+    "description": "Busca por cafés que tenham notas de chocolate mencionadas na avaliação."
+  },
+  {
+    "query": "Cafés de origem etíope",
+    "filter": "origin eq 'Ethiopia'",
+    "top": 5,
+    "description": "Filtragem para encontrar cafés com origem na Etiópia."
+  }
+]
+
+💡 O que essas consultas fazem?
+✅ Buscam cafés com avaliação superior a 4.5.
+✅ Filtram cafés que mencionam "chocolate" nas avaliações.
+✅ Procuram cafés de origem etíope.
 
