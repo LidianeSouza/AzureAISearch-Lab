@@ -35,8 +35,9 @@
 }
 ```
 
-- A maioria dos cafés mencionando chocolate vieram de origens sul-americanas. 
-- Palavras associadas frequentemente: "encorpado", "cremoso", "aveludado".
+✅ A maioria dos cafés mencionando chocolate vieram de origens sul-americanas. 
+
+✅ Palavras associadas frequentemente: "encorpado", "cremoso", "aveludado".
 
 ## 🌍 3. Cafés de Origem Etíope
 
@@ -50,8 +51,9 @@
 }
 ```
 
-- Os cafés etíopes geralmente possuem notas florais e cítricas. 
-- Origem mais comum nos cafés premium do conjunto de dados.
+✅ Os cafés etíopes geralmente possuem notas florais e cítricas.
+
+✅ Origem mais comum nos cafés premium do conjunto de dados.
 
 ## 📌 Conclusão 
 
