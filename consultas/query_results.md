@@ -4,7 +4,7 @@
 
 ## 🛠️ 1. Cafés Mais Bem Avaliados
 
-### 🔍 Consulta:
+🔍 Consulta:
 
 json
 {
@@ -14,6 +14,7 @@ json
 }
 
 ✅ Os cafés melhor avaliados apresentaram notas de frutas vermelhas e chocolate em suas descrições. 
+
 ✅ Marcas como Blue Mountain Coffee e Ethiopian Sidamo apareceram no topo da lista.
 
 🍫 2. Cafés com Notas de Chocolate
@@ -27,6 +28,7 @@ json
 }
 
 ✅ A maioria dos cafés mencionando chocolate vieram de origens sul-americanas. 
+
 ✅ Palavras associadas frequentemente: "encorpado", "cremoso", "aveludado".
 
 🌍 3. Cafés de Origem Etíope
@@ -40,6 +42,7 @@ json
 }
 
 ✅ Os cafés etíopes geralmente possuem notas florais e cítricas. 
+
 ✅ Origem mais comum nos cafés premium do conjunto de dados.
 
 📌 Conclusão 
