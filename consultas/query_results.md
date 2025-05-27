@@ -44,9 +44,11 @@ json
 - Os cafés etíopes geralmente possuem notas florais e cítricas. 
 - Origem mais comum nos cafés premium do conjunto de dados.
 
-📌 Conclusão 
+## 📌 Conclusão 
+
 A indexação no Azure AI Search permitiu identificar padrões interessantes sobre cafés, incluindo:
 - ☕ Os mais bem avaliados 
 - 🍫 Características de sabor
 - 🌍 Tendências por origem 
+
 🔎 Essas análises podem ser ampliadas com novos filtros e técnicas de busca!
