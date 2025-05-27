@@ -14,6 +14,7 @@ json
 }
 
 ✅ Os cafés melhor avaliados apresentaram notas de frutas vermelhas e chocolate em suas descrições.
+
 ✅ Marcas como Blue Mountain Coffee e Ethiopian Sidamo apareceram no topo da lista.
 
 ## 🍫 2. Cafés com Notas de Chocolate
