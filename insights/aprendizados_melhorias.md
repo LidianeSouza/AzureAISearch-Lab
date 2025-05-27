@@ -50,10 +50,5 @@ Este laboratório proporcionou uma imersão prática no **Azure AI Search**, dem
 - Melhor compreensão sobre **indexação inteligente** e **relevância de consultas**.  
 - Identificação de tendências em avaliações, auxiliando decisões estratégicas.  
 - Aplicação de técnicas para otimização de buscas e refinamento de filtros.  
-
-🔹 **Próximos Passos:**  
-- Explorar a integração do Azure AI Search com outras ferramentas de análise de dados.  
-- Refinar modelos de pesquisa para obter resultados ainda mais precisos e relevantes.  
-- Testar novos conjuntos de dados para validar descobertas e expandir insights.  
   
 Este projeto mostrou o potencial da mineração de dados e pesquisa inteligente. Com pequenas melhorias, podemos transformar esse laboratório em uma ferramenta poderosa para análise de tendências! 🚀🔍
