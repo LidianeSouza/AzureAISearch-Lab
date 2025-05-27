@@ -12,7 +12,7 @@
 
 🔍 Consulta:
 
-json
+```json
 {
   "search": "Melhor café",
   "filter": "rating gt 4.5",
@@ -26,7 +26,7 @@ json
 
 🔍Consulta:
 
-json
+```json
 {
   "search": "Notas de chocolate",
   "filter": "review eq 'chocolate'",
@@ -40,7 +40,7 @@ json
 
 🔍 Consulta:
 
-json
+```json
 {
   "search": "Cafés de origem etíope",
   "filter": "origin eq 'Ethiopia'",
