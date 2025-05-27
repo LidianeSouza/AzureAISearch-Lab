@@ -39,5 +39,5 @@ AzureAISearch-Lab/
 │── 📂 insights/         # Descobertas e padrões observados nos dados
 │   ├── data_analysis.md     # Relatório detalhando padrões e tendências nos dados
 │   ├── coffee_trends.md     # Tendências encontradas nas avaliações de café
-│   ├── aprendizados.md    
+│   ├── aprendizados_melhorias.md    
 │── 📂 images/           # Imagens e gráficos para ilustrar o projeto
