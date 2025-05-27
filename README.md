@@ -34,8 +34,6 @@ Imagine que você é um barista querendo entender quais características dos caf
 
 Aqui está a organização dos arquivos para facilitar a navegação:
 
-## 📌 Estrutura do Repositório
-
 AzureAISearch-Lab/
 │── 📜 [README.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/README.md)         # Explicação geral do laboratório
 │── 📂 [datasets/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/datasets)         # Arquivos de dados usados no projeto
@@ -50,7 +48,8 @@ AzureAISearch-Lab/
 │── 📂 [insights/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/insights)         # Descobertas e padrões observados nos dados
 │   ├── [data_analysis.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/data_analysis.md)     # Relatório detalhando padrões e tendências nos dados
 │   ├── [coffee_trends.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/coffee_trends.md)     # Tendências encontradas nas avaliações de café
-│   ├── [aprendizados_melhorias.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/aprendizados_melhorias.md)    
+│   ├── [aprendizados_melhorias.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/aprendizados_melhorias.md) # Aprendizados e sugestões de melhorias
 │── 📂 [images/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/images)           # Imagens e gráficos para ilustrar o projeto
+
 
 
