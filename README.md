@@ -1,11 +1,16 @@
 # 🔍 Laboratório de Azure AI Search 
 
+> Este laboratório foi desenvolvido seguindo o passo a passo do **Microsoft Learning** para explorar o **Azure AI Search** e suas capacidades.
+
 ## 🏁 Bem-vindo ao laboratório!  
-Se você já se perguntou como grandes volumes de dados podem ser organizados e pesquisados de forma eficiente, este laboratório é para você!  Hoje, vamos usar **Azure AI Search** para transformar um conjunto de avaliações de café (**zipped coffee reviews**) em um sistema inteligente de busca.  
+Se você já se perguntou como grandes volumes de dados podem ser organizados e pesquisados de forma eficiente, este laboratório é para você! Hoje, vamos usar **Azure AI Search** para transformar um conjunto de avaliações de café (**zipped coffee reviews**) em um sistema inteligente de busca.  
 
 🔹 **Objetivo:** Minerar conhecimento das avaliações e descobrir padrões!  
 🔹 **Ferramenta:** **Azure AI Search** para indexação e pesquisa eficiente.  
 🔹 **Desafio:** Como podemos encontrar os cafés mais bem avaliados com apenas algumas consultas?  
+
+### **🔎 Exemplo prático**
+Imagine que você é um barista querendo entender quais características dos cafés são mais apreciadas pelos clientes. Com o **Azure AI Search**, você pode pesquisar rapidamente termos como _"notas frutadas"_ ou _"baixo amargor"_ e identificar padrões de preferência. Isso ajuda na escolha de grãos e no aperfeiçoamento das receitas, tornando suas ofertas mais alinhadas com as expectativas dos consumidores.  
 
 ## 📌 Etapas Realizadas
 
