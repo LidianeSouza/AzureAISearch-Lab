@@ -1,6 +1,6 @@
 # 🔍 Resultados das Consultas
 
-📄 **Este arquivo documenta os insights encontrados a partir das consultas feitas no Azure AI Search.**
+📄 Este arquivo documenta os insights encontrados a partir das consultas feitas no Azure AI Search.
 
 ## 🛠️ 1. Cafés Mais Bem Avaliados
 
