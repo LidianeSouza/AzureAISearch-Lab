@@ -2,7 +2,7 @@
 
 📄 Este arquivo documenta os insights encontrados a partir das consultas feitas no Azure AI Search.
 
-## 🛠️ 1. Cafés Mais Bem Avaliados
+## ☕ 1. Cafés Mais Bem Avaliados
 
 🔍 Consulta:
 
@@ -13,10 +13,10 @@ json
   "top": 5
 }
 
-✅ Os cafés melhor avaliados apresentaram notas de frutas vermelhas e chocolate em suas descrições. 
-✅ Marcas como Blue Mountain Coffee e Ethiopian Sidamo apareceram no topo da lista.
+- Os cafés melhor avaliados apresentaram notas de frutas vermelhas e chocolate em suas descrições.
+- Marcas como Blue Mountain Coffee e Ethiopian Sidamo apareceram no topo da lista.
 
-🍫 2. Cafés com Notas de Chocolate
+## 🍫 2. Cafés com Notas de Chocolate
 
 🔍Consulta:
 
@@ -27,10 +27,10 @@ json
   "top": 10
 }
 
-✅ A maioria dos cafés mencionando chocolate vieram de origens sul-americanas. 
-✅ Palavras associadas frequentemente: "encorpado", "cremoso", "aveludado".
+- A maioria dos cafés mencionando chocolate vieram de origens sul-americanas. 
+- Palavras associadas frequentemente: "encorpado", "cremoso", "aveludado".
 
-🌍 3. Cafés de Origem Etíope
+## 🌍 3. Cafés de Origem Etíope
 
 🔍 Consulta:
 
@@ -41,8 +41,8 @@ json
   "top": 5
 }
 
-✅ Os cafés etíopes geralmente possuem notas florais e cítricas. 
-✅ Origem mais comum nos cafés premium do conjunto de dados.
+- Os cafés etíopes geralmente possuem notas florais e cítricas. 
+- Origem mais comum nos cafés premium do conjunto de dados.
 
 📌 Conclusão 
 A indexação no Azure AI Search permitiu identificar padrões interessantes sobre cafés, incluindo:
