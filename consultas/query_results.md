@@ -5,7 +5,8 @@
 ## 🛠️ 1. Cafés Mais Bem Avaliados
 
 ### 🔍 Consulta:
-````json
+
+json
 {
   "search": "Melhor café",
   "filter": "rating gt 4.5",
