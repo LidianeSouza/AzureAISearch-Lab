@@ -1,8 +1,7 @@
-## 🔹 2. Criando um Índice Inteligente – Organizando a Informação  
+# 🔹 2. Criando um Índice Inteligente – Organizando a Informação
+
 Agora é hora de estruturar um **índice** para organizar os dados e facilitar a busca.  
-
 # 🛠️ Configuração do Índice no Azure AI Search
-
 ## 📌 Passo 1: Criando o Serviço de Busca no Azure
 1. Acesse o [Portal Azure](https://portal.azure.com).
 2. Pesquise por **Azure AI Search** e clique em "Criar".
