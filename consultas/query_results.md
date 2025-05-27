@@ -59,9 +59,5 @@ A indexação no Azure AI Search permitiu identificar padrões interessantes sob
 - 🍫 **Perfis de sabor preferidos (características de sabor)** – Descobrimos notas sensoriais mais apreciadas pelos consumidores.  
 - 🌍 **Tendências por origem** – Mapear padrões regionais ajuda a entender preferências culturais no consumo de café.  
 
-### 🚀 **Impacto e próximos passos**  
 Com a aplicação de filtros avançados e técnicas de pesquisa refinadas, podemos expandir essas análises para auxiliar produtores, cafeterias e até plataformas de e-commerce a oferecerem recomendações personalizadas.  
-📊 **Aprimoramento contínuo:** Explorar novas fontes de dados e testar diferentes abordagens de indexação.  
-🤖 **Integração com IA:** Incorporar modelos de machine learning para previsões ainda mais precisas.  
-📈 **Automação de consultas:** Criar dashboards interativos para visualização dinâmica dos insights gerados.  
 
