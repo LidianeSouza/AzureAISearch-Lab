@@ -5,7 +5,7 @@
 ## 🛠️ 1. Cafés Mais Bem Avaliados
 
 ### 🔍 Consulta:
-```json
+json
 {
   "search": "Melhor café",
   "filter": "rating gt 4.5",
@@ -17,7 +17,7 @@
 🍫 2. Cafés com Notas de Chocolate
 
 🔍Consulta:
-```json
+json
 {
   "search": "Notas de chocolate",
   "filter": "review eq 'chocolate'",
@@ -29,7 +29,7 @@
 🌍 3. Cafés de Origem Etíope
 
 🔍 Consulta:
-```json
+json
 {
   "search": "Cafés de origem etíope",
   "filter": "origin eq 'Ethiopia'",
