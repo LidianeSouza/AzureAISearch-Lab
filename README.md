@@ -34,20 +34,23 @@ Imagine que você é um barista querendo entender quais características dos caf
 
 Aqui está a organização dos arquivos para facilitar a navegação:
 
+## 📌 Estrutura do Repositório
+
 AzureAISearch-Lab/
-│── 📜 [README.md](https://github.com/seu-repositorio/README.md)         # Explicação geral do laboratório
-│── 📂 [datasets/](https://github.com/seu-repositorio/datasets)         # Arquivos de dados usados no projeto
-│   ├── [coffee_reviews.json](https://github.com/seu-repositorio/datasets/coffee_reviews.json)  # Dados brutos das avaliações de café
-│   ├── [dataset_info.md](https://github.com/seu-repositorio/datasets/dataset_info.md)      # Documento explicando a origem e estrutura dos dados
-│── 📂 [org_dados/](https://github.com/seu-repositorio/org_dados)         # Configuração e ajustes do Azure AI Search
-│   ├── [config_data.json](https://github.com/seu-repositorio/org_dados/config_data.json)    # Arquivo JSON com a definição do índice
-│   ├── [preparacao_dados.md](https://github.com/seu-repositorio/org_dados/preparacao_dados.md)       # Passo a passo para configurar o índice no Azure
-│── 📂 [consultas/](https://github.com/seu-repositorio/consultas)         # Exemplos de buscas e análise dos resultados
-│   ├── [search_examples.json](https://github.com/seu-repositorio/consultas/search_examples.json) # Modelos de consultas feitas no Azure AI Search
-│   ├── [query_results.md](https://github.com/seu-repositorio/consultas/query_results.md)     # Análises e insights das buscas realizadas
-│── 📂 [insights/](https://github.com/seu-repositorio/insights)         # Descobertas e padrões observados nos dados
-│   ├── [data_analysis.md](https://github.com/seu-repositorio/insights/data_analysis.md)     # Relatório detalhando padrões e tendências nos dados
-│   ├── [coffee_trends.md](https://github.com/seu-repositorio/insights/coffee_trends.md)     # Tendências encontradas nas avaliações de café
-│   ├── [aprendizados_melhorias.md](https://github.com/seu-repositorio/insights/aprendizados_melhorias.md)    
-│── 📂 [images/](https://github.com/seu-repositorio/images)           # Imagens e gráficos para ilustrar o projeto
+│── 📜 [README.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/README.md)         # Explicação geral do laboratório
+│── 📂 [datasets/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/datasets)         # Arquivos de dados usados no projeto
+│   ├── [coffee_reviews.json](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/datasets/coffee_reviews.json)  # Dados brutos das avaliações de café
+│   ├── [dataset_info.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/datasets/dataset_info.md)      # Documento explicando a origem e estrutura dos dados
+│── 📂 [org_dados/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/org_dados)         # Configuração e ajustes do Azure AI Search
+│   ├── [config_data.json](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/org_dados/config_data.json)    # Arquivo JSON com a definição do índice
+│   ├── [preparacao_dados.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/org_dados/preparacao_dados.md)       # Passo a passo para configurar o índice no Azure
+│── 📂 [consultas/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/consultas)         # Exemplos de buscas e análise dos resultados
+│   ├── [search_examples.json](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/consultas/search_examples.json) # Modelos de consultas feitas no Azure AI Search
+│   ├── [query_results.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/consultas/query_results.md)     # Análises e insights das buscas realizadas
+│── 📂 [insights/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/insights)         # Descobertas e padrões observados nos dados
+│   ├── [data_analysis.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/data_analysis.md)     # Relatório detalhando padrões e tendências nos dados
+│   ├── [coffee_trends.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/coffee_trends.md)     # Tendências encontradas nas avaliações de café
+│   ├── [aprendizados_melhorias.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/insights/aprendizados_melhorias.md)    
+│── 📂 [images/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/images)           # Imagens e gráficos para ilustrar o projeto
+
 
