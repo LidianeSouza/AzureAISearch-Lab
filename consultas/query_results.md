@@ -19,6 +19,21 @@
   "top": 5
 }```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Os cafés melhor avaliados apresentaram notas de frutas vermelhas e chocolate em suas descrições.
 - Marcas como Blue Mountain Coffee e Ethiopian Sidamo apareceram no topo da lista.
 
