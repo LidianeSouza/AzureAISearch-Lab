@@ -1,1 +1,11 @@
+{
+  "name": "coffee_reviews",
+  "fields": [
+    {"name": "coffee_id", "type": "Edm.String", "key": true},
+    {"name": "brand", "type": "Edm.String"},
+    {"name": "origin", "type": "Edm.String"},
+    {"name": "rating", "type": "Edm.Double"},
+    {"name": "review", "type": "Edm.String", "searchable": true}
+  ]
+}
 
