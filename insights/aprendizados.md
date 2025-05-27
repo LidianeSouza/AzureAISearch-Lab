@@ -55,5 +55,5 @@ Este laboratório proporcionou uma imersão prática no **Azure AI Search**, dem
 - Explorar a integração do Azure AI Search com outras ferramentas de análise de dados.  
 - Refinar modelos de pesquisa para obter resultados ainda mais precisos e relevantes.  
 - Testar novos conjuntos de dados para validar descobertas e expandir insights.  
-
-Este laboratório demonstrou como o poder da busca inteligente pode transformar dados brutos em conhecimento valioso. 🚀🔍  
+  
+Este projeto mostrou o potencial da mineração de dados e pesquisa inteligente. Com pequenas melhorias, podemos transformar esse laboratório em uma ferramenta poderosa para análise de tendências! 🚀🔍
