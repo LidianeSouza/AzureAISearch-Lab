@@ -37,7 +37,6 @@ Aqui está a organização dos arquivos para facilitar a navegação:
 AzureAISearch-Lab/
 │── 📜 [README.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/README.md)         # Explicação geral do laboratório
 │── 📂 [datasets/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/datasets)         # Arquivos de dados usados no projeto
-│   ├── [coffee_reviews.json](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/datasets/coffee_reviews.json)  # Dados brutos das avaliações de café
 │   ├── [dataset_info.md](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/datasets/dataset_info.md)      # Documento explicando a origem e estrutura dos dados
 │── 📂 [org_dados/](https://github.com/LidianeSouza/AzureAISearch-Lab/tree/main/org_dados)         # Configuração e ajustes do Azure AI Search
 │   ├── [config_data.json](https://github.com/LidianeSouza/AzureAISearch-Lab/blob/main/org_dados/config_data.json)    # Arquivo JSON com a definição do índice
