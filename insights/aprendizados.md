@@ -27,7 +27,6 @@ Este laboratório demonstrou que, com uma boa estruturação dos dados e um índ
 Embora o laboratório tenha proporcionado um excelente aprendizado, sempre há espaço para aprimoramentos e expansão. Aqui estão algumas sugestões para melhorias futuras:  
 
 ## 🔹 Aprimorar a Qualidade dos Índices  
-- Implementar **busca semântica** para entender melhor a intenção do usuário.  
 - Refinar o uso de **sinônimos** e **análise de sentimentos** nas avaliações.  
 
 ## 🔹 Expandir as Consultas e Filtragens  
@@ -37,10 +36,6 @@ Embora o laboratório tenha proporcionado um excelente aprendizado, sempre há e
 ## 🔹 Melhorar a Visualização dos Resultados  
 - Criar um **dashboard** interativo com gráficos sobre as avaliações e tendências.  
 - Integrar o **Azure AI Search** com uma aplicação web para tornar a busca mais acessível e intuitiva.  
-
-## 🔹 Aplicações em Outros Setores  
-- Utilizar essa abordagem para análise de **avaliações de restaurantes, produtos ou filmes**.  
-- Explorar buscas avançadas para **mineração de conhecimento em documentos corporativos**.  
 
 ### 💡 Reflexão  
 Com essas melhorias, poderemos **expandir o impacto** do projeto e torná-lo ainda mais útil para tomada de decisões baseadas em dados!  
@@ -62,6 +57,3 @@ Este laboratório proporcionou uma imersão prática no **Azure AI Search**, dem
 - Testar novos conjuntos de dados para validar descobertas e expandir insights.  
 
 Este laboratório demonstrou como o poder da busca inteligente pode transformar dados brutos em conhecimento valioso. 🚀🔍  
-
-Se tiver sugestões ou quiser contribuir, fique à vontade para explorar o repositório e colaborar! 😊  
-
