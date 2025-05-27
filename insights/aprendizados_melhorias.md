@@ -49,6 +49,10 @@ Este laboratório proporcionou uma imersão prática no **Azure AI Search**, dem
 🔹 **Aprendizados Chave:**  
 - Melhor compreensão sobre **indexação inteligente** e **relevância de consultas**.  
 - Identificação de tendências em avaliações, auxiliando decisões estratégicas.  
-- Aplicação de técnicas para otimização de buscas e refinamento de filtros.  
+- Aplicação de técnicas para otimização de buscas e refinamento de filtros.
+
+📊 **Aprimoramento contínuo:** Explorar novas fontes de dados e testar diferentes abordagens de indexação.  
+🤖 **Integração com IA:** Incorporar modelos de machine learning para previsões ainda mais precisas.  
+📈 **Automação de consultas:** Criar dashboards interativos para visualização dinâmica dos insights gerados. 
   
 Este projeto mostrou o potencial da mineração de dados e pesquisa inteligente. Com pequenas melhorias, podemos transformar esse laboratório em uma ferramenta poderosa para análise de tendências! 🚀🔍
