@@ -5,10 +5,10 @@ Os dados utilizados neste laboratório foram fornecidos pelo **Microsoft Learnin
 [Zipped Coffee Reviews Dataset](https://aka.ms/mslearn-coffee-reviews)  
 
 Este conjunto de dados contém avaliações de cafés, incluindo informações como:  
-✅ **Marca do café**  
-✅ **Origem (país ou região)**  
-✅ **Nota média dada pelos consumidores**  
-✅ **Comentários detalhados sobre aroma, sabor e corpo**  
+    ✅ **Marca do café**  
+    ✅ **Origem (país ou região)**  
+    ✅ **Nota média dada pelos consumidores**  
+    ✅ **Comentários detalhados sobre aroma, sabor e corpo**  
 
 ## 📂 Estrutura dos Dados  
 Os arquivos estão disponíveis nos formatos **JSON** e **CSV**, permitindo a ingestão e análise no **Azure AI Search**.  
