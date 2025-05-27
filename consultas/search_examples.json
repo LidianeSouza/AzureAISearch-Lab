@@ -1,7 +1,3 @@
-# 🔍 Exemplos de Buscas no Azure AI Search
-
-📄 **Este arquivo contém consultas realizadas para pesquisar as avaliações de café.**
-
 [
   {
     "query": "Melhor café",
@@ -22,25 +18,3 @@
     "description": "Filtragem para encontrar cafés com origem na Etiópia."
   }
 ]
-
-## 🔎 Consultas Realizadas
-- ☕ Pesquisa por avaliações positivas de café
-- ⭐ Filtragem por classificações acima de 4 estrelas
-- 📍 Localização dos cafés mais bem avaliados
-- 🏷️ Busca por cafés com palavras-chave específicas
-- ⏳ Ordenação por data das avaliações mais recentes
-
-📊 **Insights Extraídos**
-- 📈 Tendências de preferência dos consumidores
-- 🗺️ Mapeamento das regiões com melhores cafés
-- 📝 Comentários mais frequentes sobre sabor e qualidade
-
-🚀 **Conclusão**
-- 🔬 Aprendizados obtidos com as buscas realizadas
-- 🎯 Melhorias para futuras pesquisas
-💡 O que essas consultas fazem?
-
-✅ Buscam cafés com avaliação superior a 4.5.
-✅ Filtram cafés que mencionam "chocolate" nas avaliações.
-✅ Procuram cafés de origem etíope.
-
