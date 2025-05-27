@@ -1,4 +1,4 @@
-# 🔍 Laboratório de Azure AI Search - ☕ Explorando **Azure AI Search** com Avaliações de Café  
+# 🔍 Laboratório de Azure AI Search 
 
 ## 🏁 Bem-vindo ao laboratório!  
 Se você já se perguntou como grandes volumes de dados podem ser organizados e pesquisados de forma eficiente, este laboratório é para você!  Hoje, vamos usar **Azure AI Search** para transformar um conjunto de avaliações de café (**zipped coffee reviews**) em um sistema inteligente de busca.  
