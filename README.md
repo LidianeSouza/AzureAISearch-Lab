@@ -44,3 +44,4 @@ AzureAISearch-Lab/
 │   ├── search_visual.png     # Captura de tela da interface de busca
 │   ├── data_flow_diagram.png # Fluxo de processamento dos dados
 
+✅ README.md — Um guia detalhado sobre o laboratório, incluindo objetivos, metodologia e conclusão. ✅ Datasets/ — Diretório para armazenar os dados utilizados, incluindo informações sobre origem e formato. ✅ Indexação/ — Onde ficam as configurações do Azure AI Search e explicações sobre o processo de criação do índice. ✅ Consultas/ — Testes realizados, exemplos de buscas e análise dos resultados obtidos. ✅ Insights/ — Relatórios sobre padrões encontrados e sugestões para melhorar pesquisas futuras. ✅ Assets/ — Imagens e gráficos para documentar visualmente as etapas.
