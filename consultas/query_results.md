@@ -2,6 +2,12 @@
 
 📄 Este arquivo documenta os insights encontrados a partir das consultas feitas no Azure AI Search.
 
+- ☕ Pesquisa por avaliações positivas de café
+- ⭐ Filtragem por classificações acima de 4 estrelas
+- 📍 Localização dos cafés mais bem avaliados
+- 🏷️ Busca por cafés com palavras-chave específicas
+- ⏳ Ordenação por data das avaliações mais recentes
+
 ## ☕ 1. Cafés Mais Bem Avaliados
 
 🔍 Consulta:
